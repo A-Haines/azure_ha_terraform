@@ -1,5 +1,5 @@
-# F5 VisitPay Azure Terraform Project
-This project details the Professional Services Engagement with VisitPay for the development of a Terraform deployment.
+# F5 Azure Terraform Project
+This project details the Professional Services Engagement with XXXX for the development of a Terraform deployment.
 
 ## Project Overview
 - Design Terraform Script for IaC Deployment to Azure

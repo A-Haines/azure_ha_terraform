@@ -1,5 +1,5 @@
 # F5 Azure Terraform Project
-This project details the Professional Services Engagement with XXXX for the development of a Terraform deployment.
+This project details the development of a Terraform deployment for an HA Pair of F5's in MSFT Azure. THIS IS NOT AN F5 OFFICIAL SOLUTION. THERE ARE NO WARRENTIES OR GAURENTEED SUPPORT.
 
 ## Project Overview
 - Design Terraform Script for IaC Deployment to Azure
